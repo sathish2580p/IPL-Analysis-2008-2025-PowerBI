@@ -54,23 +54,8 @@ The project uses IPL historical datasets containing:
 
 ## 📸 Dashboard Preview
 
-### Home Dashboard
+![Uploading ipl dashboard.png…]()
 
-![Dashboard](Images/Dashboard.png)
-
-### Team Analysis
-
-![Team Analysis](Images/Team%20Analysis.png)
-
-### Player Analysis
-
-![Player Analysis](Images/Player%20Analysis.png)
-
-### Season Analysis
-
-![Season Analysis](Images/Season%20Analysis.png)
-
----
 
 ## 📈 Key Insights
 
