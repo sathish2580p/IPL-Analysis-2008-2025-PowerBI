@@ -141,6 +141,6 @@ DIVIDE(
 
 **Pamula Sathish**
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn:(https://www.linkedin.com/in/sathish-pamula-980852267)
 
-GitHub: *(Add your GitHub URL)*
+GitHub:(https://github.com/sathish2580p)
