@@ -53,8 +53,9 @@ The project uses IPL historical datasets containing:
 ---
 
 ## 📸 Dashboard Preview
+<img width="1536" height="1024" alt="ipl dashboard" src="https://github.com/user-attachments/assets/0fb0faae-6250-49d4-920c-86c96c3df523" />
 
-![Uploading ipl dashboard.png…]()
+<img width="632" height="353" alt="Screenshot 2026-07-22 220124" src="https://github.com/user-attachments/assets/4e86de09-78ff-49f3-950b-dbc58dfdc87d" />
 
 
 ## 📈 Key Insights
